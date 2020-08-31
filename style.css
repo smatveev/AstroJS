@@ -1,0 +1,12 @@
+body {
+    background: darkslategray;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+canvas {
+    cursor: none;
+}
